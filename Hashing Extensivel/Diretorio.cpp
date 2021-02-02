@@ -1,0 +1,1 @@
+//Usar como estrutura vector
